@@ -149,7 +149,7 @@ def forecast(bot, update):
 		)
 # Main function, where bot commands are processed
 def main():
-	token = "INSERT API KEY HERE!"
+	token = "6397769095:AAEEgphXWkoaVXcr-159Gi3iubXCHSAoY6I"
 
 	updater = Updater(token)
 	dp = updater.dispatcher
